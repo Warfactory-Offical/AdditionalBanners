@@ -2,6 +2,46 @@
 itemGroup.additionalbanners=Add. Banners
 gui.additionalbanners.jei.category.banners=Banners
 
+# Warfactory-related Banner Stuff
+
+# Test Banner
+item.banner.additionalbanners_test.black=Black Test Pattern
+item.banner.additionalbanners_test.red=Red Test Pattern
+item.banner.additionalbanners_test.green=Green Test Pattern
+item.banner.additionalbanners_test.brown=Brown Test Pattern
+item.banner.additionalbanners_test.blue=Blue Test Pattern
+item.banner.additionalbanners_test.purple=Purple Test Pattern
+item.banner.additionalbanners_test.cyan=Cyan Test Pattern
+item.banner.additionalbanners_test.silver=Silver Test Pattern
+item.banner.additionalbanners_test.gray=Gray Test Pattern
+item.banner.additionalbanners_test.pink=Pink Test Pattern
+item.banner.additionalbanners_test.lime=Lime Test Pattern
+item.banner.additionalbanners_test.yellow=Yellow Test Pattern
+item.banner.additionalbanners_test.lightBlue=LightBlue Test Pattern
+item.banner.additionalbanners_test.magenta=Magenta Test Pattern
+item.banner.additionalbanners_test.orange=Orange Test Pattern
+item.banner.additionalbanners_test.white=White Test Pattern
+
+# Chud Banner
+item.banner.additionalbanners_chud.black=Black Chud Pattern
+item.banner.additionalbanners_chud.red=Red Chud Pattern
+item.banner.additionalbanners_chud.green=Green Chud Pattern
+item.banner.additionalbanners_chud.brown=Brown Chud Pattern
+item.banner.additionalbanners_chud.blue=Blue Chud Pattern
+item.banner.additionalbanners_chud.purple=Purple Chud Pattern
+item.banner.additionalbanners_chud.cyan=Cyan Chud Pattern
+item.banner.additionalbanners_chud.silver=Silver Chud Pattern
+item.banner.additionalbanners_chud.gray=Gray Chud Pattern
+item.banner.additionalbanners_chud.pink=Pink Chud Pattern
+item.banner.additionalbanners_chud.lime=Lime Chud Pattern
+item.banner.additionalbanners_chud.yellow=Yellow Chud Pattern
+item.banner.additionalbanners_chud.lightBlue=LightBlue Chud Pattern
+item.banner.additionalbanners_chud.magenta=Magenta Chud Pattern
+item.banner.additionalbanners_chud.orange=Orange Chud Pattern
+item.banner.additionalbanners_chud.white=White Chud Pattern
+
+# Default Banner Stuff
+
 #bread localization
 item.banner.additionalbanners_bread.black=Black Bread Pattern
 item.banner.additionalbanners_bread.red=Red Bread Pattern

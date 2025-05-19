@@ -1,6 +1,7 @@
 package net.darkhax.additionalbanners.handler;
 
 import net.darkhax.additionalbanners.AdditionalBanners;
+import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.EnumDyeColor;
@@ -60,6 +61,11 @@ public class PatternHandler {
 
         HASHTAG = addCraftingPattern("hashtag", new ItemStack(Blocks.CRAFTING_TABLE));
         CAP = addCraftingPattern("cap", new ItemStack(Item.getItemFromBlock(Blocks.STONE_SLAB)));
+
+        // Warfactory Custom Patterns begin here:
+
+        addBasicPattern("test");
+        addBasicPattern("chud");
     }
 
     /**
